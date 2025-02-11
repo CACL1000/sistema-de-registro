@@ -3,3 +3,6 @@
 
 Para ejecutar el sistema:
 ```npm install react```
+
+-Sistema de regitro 2
+
